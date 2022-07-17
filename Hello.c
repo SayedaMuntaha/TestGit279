@@ -10,3 +10,7 @@ int main(int argc, char const *argv[])
 int add(int a){
     return a;
 }
+
+int Sub(int b){
+    return b;
+}
