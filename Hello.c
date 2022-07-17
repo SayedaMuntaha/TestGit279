@@ -11,6 +11,12 @@ int add(int a){
     return a;
 }
 
+
 int mul(int a){
     return a;
+}
+
+int Sub(int b){
+    return b;
+
 }
